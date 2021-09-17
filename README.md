@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/alphasingh/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+<a href="https://www.hackerrank.com/alphasingh/">
+  <img align="left" width="24px" src="https://www.svgrepo.com/show/306171/hackerrank.svg"  />
+</a>
 
 <br />
 
