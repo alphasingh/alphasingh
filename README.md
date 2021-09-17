@@ -7,7 +7,7 @@
   <img align="left" width="24px" src="https://www.svgrepo.com/show/306171/hackerrank.svg"  />
 </a>
 <a href="https://leetcode.com/alphasingh/">
-  <img align="left" width="24px" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"  />
+  <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  />
 </a>
 
 <br />
