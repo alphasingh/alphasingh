@@ -13,7 +13,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a senior pursuing my Master's in Applied Computing at the [University of Windsor](https://www.uwindsor.ca/). </br>
+🎓 I’m an Open-Source enthusiast currently pursuing my Master's in Applied Computing at the [University of Windsor](https://www.uwindsor.ca/). </br>
 👨‍💻  I am passionate about web development, DevOps, problem solving, start-ups & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
