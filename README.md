@@ -1,4 +1,4 @@
-## Hey! <img src="https://github.com/alphasingh/alphasingh/blob/main/Hi.gif" width="29px"> I'm [Abhay](https://alphasingh.github.io/) 
+## Hey there 👋
 
 <a href="https://www.linkedin.com/in/alphasingh/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
