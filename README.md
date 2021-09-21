@@ -17,7 +17,7 @@
 👨‍💻  I am passionate about web development, DevOps, problem solving, start-ups & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [LeetCode contributor](https://github.com/LeetCode-Feedback/LeetCode-Feedback) - I love to solve problems on LeetCode and hence contribute to test cases and problem descriptions to help the LeetCode community.
+- [LeetCode contributor](https://github.com/LeetCode-Feedback/LeetCode-Feedback) - Helping the LeetCode community
 
 ### Honors & Awards 🏅
 - [Codechef Certified](https://drive.google.com/file/d/112-Q6NHqinFacOarijNXNeUxZgncphQg/view) - I am a [Codechef](https://www.codechef.com/) certified DSA problem solver
