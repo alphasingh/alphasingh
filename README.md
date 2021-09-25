@@ -9,6 +9,9 @@
 <a href="https://leetcode.com/alphasingh/">
   <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  />
 </a>
+<a href="https://www.chess.com/member/alphasingh/">
+  <img align="left" width="24px" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png"  />
+</a>
 
 <br />
 
