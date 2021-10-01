@@ -1,5 +1,4 @@
 ## Hey there 👋
-
 <a href="https://www.linkedin.com/in/alphasingh/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -11,8 +10,9 @@
 </a>
 <a href="https://www.chess.com/member/alphasingh/">
   <img align="left" width="24px" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png"  />
-</a></br>
+</a> 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alphasingh.alphasingh)
 
 ![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=alphasingh&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alphasingh.alphasingh)
+
