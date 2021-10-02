@@ -14,5 +14,13 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alphasingh.alphasingh)
 
-![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=alphasingh&show_icons=true&hide_border=true)
+
+<details>
+	<summary> Github Stats </summary>
+	<br />
+  
+  ![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=alphasingh&show_icons=true&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphasingh&" alt="alphasingh"/>
+
+</details>
 
