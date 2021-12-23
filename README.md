@@ -1,4 +1,5 @@
-## Hey there 👋
+## Hey there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alphasingh.alphasingh)
+#### visit my public profiles
 <a href="https://www.linkedin.com/in/alphasingh/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -8,12 +9,15 @@
 <a href="https://leetcode.com/alphasingh/">
   <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  />
 </a>
+<a href="https://www.duolingo.com/profile/alphas1ngh">
+  <img align="left" width="24px" src="https://design.duolingo.com/86230c9ad10d9f08b785.svg"  />
+</a> 
 <a href="https://www.chess.com/member/alphasingh/">
   <img align="left" width="24px" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png"  />
 </a> 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alphasingh.alphasingh)
-
+</br>
+</br>
 
 <details>
 	<summary> Github Stats </summary>
@@ -23,4 +27,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alphasingh&" alt="alphasingh"/>
 
 </details>
-
