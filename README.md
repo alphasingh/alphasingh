@@ -15,7 +15,7 @@
 <a href="https://leetcode.com/alphasingh/">
   <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  />
 </a>
-<a href="https://www.duolingo.com/profile/alpha.singh">
+<a href="https://www.duolingo.com/profile/alphasingh.">
   <img align="left" width="24px" src="https://design.duolingo.com/86230c9ad10d9f08b785.svg"  />
 </a> 
 <a href="https://www.chess.com/member/alphasingh/">
